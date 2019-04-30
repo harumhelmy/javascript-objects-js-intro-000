@@ -1,5 +1,10 @@
 var playlist = {
-  JoannaNewsom: "'Only Skin'",
-  Clipse: "'Grindin'",
-  KaceyMusgraves: "'Slow Burn'"
+  'Joanna Newsom': "'Only Skin'",
+  'Clipse': "'Grindin'",
+  'Kacey Musgraves': "'Slow Burn'"
 };
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistName = songTitle
+  return playlist
+}
