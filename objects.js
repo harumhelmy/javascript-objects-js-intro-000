@@ -1,5 +1,5 @@
 var playlist = {
-  Joanna Newsom: "'Only Skin'",
+  JoannaNewsom: "'Only Skin'",
   Clipse: "'Grindin'",
-  Kacey Musgraves: "'Slow Burn'"
+  KaceyMusgraves: "'Slow Burn'"
 };
