@@ -9,8 +9,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
 }
 
-updatePlaylist(playlist, 'Phil Ochs')
-
 function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName
   return playlist
